@@ -1,0 +1,1 @@
+pyinstaller mass_export.spec --onefile

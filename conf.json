@@ -3,7 +3,7 @@
 	,"data_path":"C:\\Users\\Ingest\\Documents\\dev\\tranfer_stratus_ist\\hitory_lists\\restore_datax.csv"
 	,"history_path":"C:\\Users\\Ingest\\Documents\\dev\\tranfer_stratus_ist\\hitory_lists\\"
 	,"origin_ftp_server":{
-		"host":"SMEX-FTP1"
+		"host":"SMEX-FTP1_he0"
 		,"user":"mxfmovie"
 		,"pass":""
 		,"db_id":1
@@ -21,11 +21,13 @@
 	,"dest_db_id":5
 	,"istorage_api_store_clip":"http://API-SVR:3001/store_clip"
 	,"istorage_api":"http://API-SVR:3001"
-	,"local_temp_folder":"C:\\Users\\Ingest\\Documents\\dev\\exporter\\"
+	,"local_temp_folder":"E:\\VIDRIOS BLINDADOS\\"
 	,"local_dest_folder":"C:\\Users\\Ingest\\Desktop\\"
 	,"muxer_folder":"C:\\Users\\Ingest\\Documents\\dev\\exporter\\muxers\\"
 	,"muxer":"universal_h264"
 	,"render_engine_path":""
 	,"default_origin_path":"V:/PlayToAir"
 	,"default_origin_path_tare":"V:/"
+	,"mass_origin_path":"V:\\media\\Comercial\\VIDRIOS BLINDADOS\\"
+	,"mass_origin_path_tare":"V:\\media\\"
 }
